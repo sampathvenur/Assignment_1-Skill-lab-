@@ -1,0 +1,89 @@
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3e%3cpath d='M6.25 0L5 2.25 7.25 4.5 5 6.75 6.25 8l3-3-3-3z'/%3e%3c/svg%3e");
+    transform: rotate(180deg);
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0L1 2.25 3.25 4.5 1 6.75 2.75 8l3-3-3-3z'/%3e%3c/svg%3e");
+}
+
+.navbar {
+    background-color: black !important;
+}
+
+.navbar-brand {
+    color: rgb(229, 77, 22) !important;
+    font-weight: bold;
+    font-size: 46px;
+}
+
+.navbar-nav.ml-auto .nav-link {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 25px;
+}
+
+.navbar-nav.ml-auto .nav-link:hover {
+    color: rgb(229, 77, 22);
+}
+
+.card-header1 button {
+    color: rgb(0, 231, 0);
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: none;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.card-header1 button:hover {
+    color: rgb(0, 231, 0);
+}
+
+.card-header2 button {
+    color: rgb(220, 74, 21);
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: none;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.card-header2 button:hover {
+    color: rgb(220, 74, 21);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.special-dish {
+    font-size: 3em;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#162db1, #fc00da);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-primary {
+    background-color: rgb(52, 191, 44);
+    font-size: 26px;
+    color: white;
+    margin-bottom: 60px;
+    border: none;
+    font-weight: bold;
+    padding: 24px 40px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: rgb(10, 112, 16);
+}
