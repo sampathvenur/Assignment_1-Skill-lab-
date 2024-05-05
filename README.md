@@ -6,24 +6,24 @@ Design a responsive web page using Bootstrap that incorporates various component
 ## Problem Description:
 Create a web page layout that showcases your understanding of Bootstrap's key features. The web page should include all the following components and functionalities:
 
-##Components and Features to Include:
+Components and Features to Include:
 
-###Containers and Grid System:
+Containers and Grid System:
 Use Bootstrap's container and grid system to create a responsive layout for your web page. Ensure that the content is organised in a visually appealing manner on different screen sizes.
 
-###Navbar:
+Navbar:
 Create a navigation bar (navbar) at the top of the page with links to different sections of your web page (e.g., Home, About, Services, Contact).  Ensure that the navigation is smooth and that page reloads/page changing are not necessary for accessing different sections.
 
-###Carousel:
+Carousel:
 Implement a carousel/slider that displays multiple images or content items. The carousel should have navigation controls (previous and next) and indicators for each slide.
 
-###Accordion:
+Accordion:
 Include an accordion component with at least two collapsible panels.   Each panel should have a header and content that expands/collapses when   clicked.
 
-###Button:
+Button:
 Add a button with a primary colour theme. This button can be used to trigger an action.  Try to add animation over the button.
 
-###Cards:
+Cards:
 Use Bootstrap's card component to display a set of cards. Each card should have an image, title, and brief description.
 
 ## Submission Guidelines:
